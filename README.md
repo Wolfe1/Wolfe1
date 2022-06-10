@@ -15,6 +15,4 @@ Sr. Sofware Engineer in Test
 5. 🗣 Commented on [#2](https://github.com/sahajamit/selenium-grid-autoscaler/issues/2) in [sahajamit/selenium-grid-autoscaler](https://github.com/sahajamit/selenium-grid-autoscaler)
 <!--END_SECTION:activity-->
 
-### Support Me
-
 <a href="https://www.buymeacoffee.com/wolfe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
