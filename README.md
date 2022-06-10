@@ -1,4 +1,4 @@
-Brandon Wolfe <a href="https://www.linkedin.com/in/brandon-wolfe1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+Brandon Wolfe <a href="https://www.linkedin.com/in/brandon-wolfe1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" align="right"/></a>
 ==============================
 Sr. Sofware Developer in Test
 -----------------------------
