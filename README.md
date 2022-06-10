@@ -17,5 +17,3 @@ Sr. Sofware Developer in Test
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/wolfe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-![Visitor Count](https://profile-counter.glitch.me/Wolfe1/count.svg)
