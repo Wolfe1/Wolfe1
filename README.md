@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Accruent/robotframework-applicationlibrary/issues/12) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-2. ❗️ Opened issue [#12](https://github.com/Accruent/robotframework-applicationlibrary/issues/12) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. ❌ Closed PR [#11](https://github.com/Accruent/robotframework-applicationlibrary/pull/11) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-4. 🎉 Merged PR [#295](https://github.com/Accruent/robotframework-zoomba/pull/295) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. ❌ Closed PR [#10](https://github.com/Accruent/robotframework-applicationlibrary/pull/10) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+1. 💪 Opened PR [#13](https://github.com/Accruent/robotframework-applicationlibrary/pull/13) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+2. 🗣 Commented on [#12](https://github.com/Accruent/robotframework-applicationlibrary/issues/12) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+3. ❗️ Opened issue [#12](https://github.com/Accruent/robotframework-applicationlibrary/issues/12) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. ❌ Closed PR [#11](https://github.com/Accruent/robotframework-applicationlibrary/pull/11) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. 🎉 Merged PR [#295](https://github.com/Accruent/robotframework-zoomba/pull/295) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
