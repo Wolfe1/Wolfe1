@@ -9,10 +9,10 @@ Tinkerer in Open Source Test Software
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/Accruent/robotframework-applicationlibrary/issues/16) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-2. 🗣 Commented on [#16](https://github.com/Accruent/robotframework-applicationlibrary/issues/16) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. 🎉 Merged PR [#297](https://github.com/Accruent/robotframework-zoomba/pull/297) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 🗣 Commented on [#14](https://github.com/Accruent/robotframework-applicationlibrary/issues/14) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-5. ❗️ Closed issue [#12](https://github.com/Accruent/robotframework-applicationlibrary/issues/12) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+2. ❌ Closed PR [#17](https://github.com/Accruent/robotframework-applicationlibrary/pull/17) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+3. 🗣 Commented on [#16](https://github.com/Accruent/robotframework-applicationlibrary/issues/16) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. 🗣 Commented on [#16](https://github.com/Accruent/robotframework-applicationlibrary/issues/16) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. 🗣 Commented on [#16](https://github.com/Accruent/robotframework-applicationlibrary/issues/16) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
