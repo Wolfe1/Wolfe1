@@ -17,5 +17,3 @@ Tinkerer in Open Source Test Software
 
 ### :newspaper: Articles
 - [Scaling a Kubernetes Selenium Grid with KEDA](https://www.linkedin.com/pulse/scaling-kubernetes-selenium-grid-keda-brandon-wolfe)
-
-<a href="https://www.buymeacoffee.com/wolfe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
