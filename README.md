@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. 💪 Opened PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. 💪 Opened PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 🗣 Commented on [#1550](https://github.com/microsoft/WinAppDriver/issues/1550) in [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver)
-5. ❌ Closed PR [#20](https://github.com/Accruent/robotframework-applicationlibrary/pull/20) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+1. 🎉 Merged PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+2. 🎉 Merged PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 💪 Opened PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. 💪 Opened PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+5. 🗣 Commented on [#1550](https://github.com/microsoft/WinAppDriver/issues/1550) in [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
