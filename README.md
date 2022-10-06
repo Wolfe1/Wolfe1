@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3620](https://github.com/kedacore/keda/issues/3620) in [kedacore/keda](https://github.com/kedacore/keda)
-2. 🎉 Merged PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. 🎉 Merged PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 💪 Opened PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-5. 💪 Opened PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+1. ❗️ Opened issue [#1790](https://github.com/robotframework/SeleniumLibrary/issues/1790) in [robotframework/SeleniumLibrary](https://github.com/robotframework/SeleniumLibrary)
+2. 🗣 Commented on [#3620](https://github.com/kedacore/keda/issues/3620) in [kedacore/keda](https://github.com/kedacore/keda)
+3. 🎉 Merged PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. 🎉 Merged PR [#302](https://github.com/Accruent/robotframework-zoomba/pull/302) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+5. 💪 Opened PR [#24](https://github.com/Accruent/robotframework-applicationlibrary/pull/24) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
