@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#323](https://github.com/Accruent/robotframework-zoomba/pull/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. 🗣 Commented on [#323](https://github.com/Accruent/robotframework-zoomba/issues/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🗣 Commented on [#41](https://github.com/Accruent/robotframework-applicationlibrary/issues/41) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-4. ❌ Closed PR [#279](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/pull/279) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
-5. ❌ Closed PR [#272](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/pull/272) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
+1. ❗️ Opened issue [#366](https://github.com/prashant-ramcharan/courgette-jvm/issues/366) in [prashant-ramcharan/courgette-jvm](https://github.com/prashant-ramcharan/courgette-jvm)
+2. ❌ Closed PR [#323](https://github.com/Accruent/robotframework-zoomba/pull/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 🗣 Commented on [#323](https://github.com/Accruent/robotframework-zoomba/issues/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+4. 🗣 Commented on [#41](https://github.com/Accruent/robotframework-applicationlibrary/issues/41) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. ❌ Closed PR [#279](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/pull/279) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
