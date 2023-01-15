@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#366](https://github.com/prashant-ramcharan/courgette-jvm/issues/366) in [prashant-ramcharan/courgette-jvm](https://github.com/prashant-ramcharan/courgette-jvm)
-2. ❗️ Opened issue [#366](https://github.com/prashant-ramcharan/courgette-jvm/issues/366) in [prashant-ramcharan/courgette-jvm](https://github.com/prashant-ramcharan/courgette-jvm)
-3. ❌ Closed PR [#323](https://github.com/Accruent/robotframework-zoomba/pull/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 🗣 Commented on [#323](https://github.com/Accruent/robotframework-zoomba/issues/323) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. 🗣 Commented on [#41](https://github.com/Accruent/robotframework-applicationlibrary/issues/41) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+1. ❌ Closed PR [#42](https://github.com/Wolfe1/zoomba/pull/42) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
+2. ❌ Closed PR [#41](https://github.com/Wolfe1/zoomba/pull/41) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
+3. ❌ Closed PR [#40](https://github.com/Wolfe1/zoomba/pull/40) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
+4. ❌ Closed PR [#35](https://github.com/Wolfe1/zoomba/pull/35) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
+5. ❌ Closed PR [#38](https://github.com/Wolfe1/zoomba/pull/38) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
