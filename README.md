@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/Accruent/robotframework-applicationlibrary/pull/46) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-2. ❌ Closed PR [#42](https://github.com/Wolfe1/zoomba/pull/42) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
-3. ❌ Closed PR [#41](https://github.com/Wolfe1/zoomba/pull/41) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
-4. ❌ Closed PR [#40](https://github.com/Wolfe1/zoomba/pull/40) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
-5. ❌ Closed PR [#35](https://github.com/Wolfe1/zoomba/pull/35) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
+1. 🎉 Merged PR [#287](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/pull/287) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
+2. ❗️ Closed issue [#229](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/issues/229) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
+3. 💪 Opened PR [#287](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch/pull/287) in [Wolfe1/daskeyboard-applet--crypto-watch](https://github.com/Wolfe1/daskeyboard-applet--crypto-watch)
+4. ❌ Closed PR [#46](https://github.com/Accruent/robotframework-applicationlibrary/pull/46) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. ❌ Closed PR [#42](https://github.com/Wolfe1/zoomba/pull/42) in [Wolfe1/zoomba](https://github.com/Wolfe1/zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
