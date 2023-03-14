@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/Accruent/robotframework-applicationlibrary/issues/50) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-2. 🗣 Commented on [#1726](https://github.com/SeleniumHQ/docker-selenium/issues/1726) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-3. ❌ Closed PR [#47](https://github.com/Accruent/robotframework-applicationlibrary/pull/47) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-4. ❌ Closed PR [#330](https://github.com/Accruent/robotframework-zoomba/pull/330) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. 💪 Opened PR [#330](https://github.com/Accruent/robotframework-zoomba/pull/330) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+1. 🗣 Commented on [#304](https://github.com/jenkinsci/office-365-connector-plugin/issues/304) in [jenkinsci/office-365-connector-plugin](https://github.com/jenkinsci/office-365-connector-plugin)
+2. 🗣 Commented on [#50](https://github.com/Accruent/robotframework-applicationlibrary/issues/50) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+3. 🗣 Commented on [#1726](https://github.com/SeleniumHQ/docker-selenium/issues/1726) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+4. ❌ Closed PR [#47](https://github.com/Accruent/robotframework-applicationlibrary/pull/47) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. ❌ Closed PR [#330](https://github.com/Accruent/robotframework-zoomba/pull/330) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
