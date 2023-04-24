@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1800](https://github.com/SeleniumHQ/docker-selenium/issues/1800) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-2. 🗣 Commented on [#335](https://github.com/Accruent/robotframework-zoomba/issues/335) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🗣 Commented on [#335](https://github.com/Accruent/robotframework-zoomba/issues/335) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. ❌ Closed PR [#334](https://github.com/Accruent/robotframework-zoomba/pull/334) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. 💪 Opened PR [#334](https://github.com/Accruent/robotframework-zoomba/pull/334) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+1. 🗣 Commented on [#336](https://github.com/Accruent/robotframework-zoomba/issues/336) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+2. 🗣 Commented on [#337](https://github.com/Accruent/robotframework-zoomba/issues/337) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 🗣 Commented on [#1800](https://github.com/SeleniumHQ/docker-selenium/issues/1800) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+4. 🗣 Commented on [#335](https://github.com/Accruent/robotframework-zoomba/issues/335) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+5. 🗣 Commented on [#335](https://github.com/Accruent/robotframework-zoomba/issues/335) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
