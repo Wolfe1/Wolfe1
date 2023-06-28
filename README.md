@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/Accruent/robotframework-applicationlibrary/pull/73) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-2. 💪 Opened PR [#73](https://github.com/Accruent/robotframework-applicationlibrary/pull/73) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. 🗣 Commented on [#72](https://github.com/Accruent/robotframework-applicationlibrary/issues/72) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-4. 💪 Opened PR [#352](https://github.com/Accruent/robotframework-zoomba/pull/352) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. ❌ Closed PR [#71](https://github.com/Accruent/robotframework-applicationlibrary/pull/71) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+1. 🔒 Closed issue [#75](https://github.com/Accruent/robotframework-applicationlibrary/issues/75) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+2. 🗣 Commented on [#75](https://github.com/Accruent/robotframework-applicationlibrary/issues/75) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+3. 🎉 Merged PR [#73](https://github.com/Accruent/robotframework-applicationlibrary/pull/73) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. 💪 Opened PR [#73](https://github.com/Accruent/robotframework-applicationlibrary/pull/73) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. 🗣 Commented on [#72](https://github.com/Accruent/robotframework-applicationlibrary/issues/72) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
