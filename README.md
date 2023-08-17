@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/Accruent/robotframework-zoomba/pull/352#issuecomment-1682285792) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. 💪 Opened PR [#360](https://github.com/Accruent/robotframework-zoomba/pull/360) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🎉 Merged PR [#8](https://github.com/Accruent/webdrivermanager/pull/8) in [Accruent/webdrivermanager](https://github.com/Accruent/webdrivermanager)
-4. 💪 Opened PR [#8](https://github.com/Accruent/webdrivermanager/pull/8) in [Accruent/webdrivermanager](https://github.com/Accruent/webdrivermanager)
-5. ❌ Closed PR [#102](https://github.com/MarketSquare/webdrivermanager/pull/102) in [MarketSquare/webdrivermanager](https://github.com/MarketSquare/webdrivermanager)
+1. 🎉 Merged PR [#360](https://github.com/Accruent/robotframework-zoomba/pull/360) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+2. 🗣 Commented on [#352](https://github.com/Accruent/robotframework-zoomba/pull/352#issuecomment-1682285792) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 💪 Opened PR [#360](https://github.com/Accruent/robotframework-zoomba/pull/360) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+4. 🎉 Merged PR [#8](https://github.com/Accruent/webdrivermanager/pull/8) in [Accruent/webdrivermanager](https://github.com/Accruent/webdrivermanager)
+5. 💪 Opened PR [#8](https://github.com/Accruent/webdrivermanager/pull/8) in [Accruent/webdrivermanager](https://github.com/Accruent/webdrivermanager)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
