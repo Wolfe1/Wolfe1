@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#352](https://github.com/Accruent/robotframework-zoomba/pull/352) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. 🚀 Published release [Zoomba 3.7.2](https://github.com/Accruent/robotframework-zoomba/releases/tag/3.7.2) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🎉 Merged PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
-4. 💪 Opened PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
-5. 🚀 Published release [Zoomba 3.7.2](https://github.com/Accruent/robotframework-zoomba/releases/tag/3.7.2) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+1. ❗ Opened issue [#1978](https://github.com/SeleniumHQ/docker-selenium/issues/1978) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+2. 🎉 Merged PR [#352](https://github.com/Accruent/robotframework-zoomba/pull/352) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 🚀 Published release [Zoomba 3.7.2](https://github.com/Accruent/robotframework-zoomba/releases/tag/3.7.2) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+4. 🎉 Merged PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
+5. 💪 Opened PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
