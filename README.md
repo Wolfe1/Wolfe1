@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1978](https://github.com/SeleniumHQ/docker-selenium/issues/1978) in [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-2. 🎉 Merged PR [#352](https://github.com/Accruent/robotframework-zoomba/pull/352) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🚀 Published release [Zoomba 3.7.2](https://github.com/Accruent/robotframework-zoomba/releases/tag/3.7.2) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 🎉 Merged PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
-5. 💪 Opened PR [#95](https://github.com/Accruent/robotframework-historic-parser/pull/95) in [Accruent/robotframework-historic-parser](https://github.com/Accruent/robotframework-historic-parser)
+1. ❌ Closed PR [#94](https://github.com/Accruent/robotframework-applicationlibrary/pull/94) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+2. ❌ Closed PR [#92](https://github.com/Accruent/robotframework-applicationlibrary/pull/92) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+3. ❌ Closed PR [#93](https://github.com/Accruent/robotframework-applicationlibrary/pull/93) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. ❌ Closed PR [#91](https://github.com/Accruent/robotframework-applicationlibrary/pull/91) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. ❌ Closed PR [#88](https://github.com/Accruent/robotframework-applicationlibrary/pull/88) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
