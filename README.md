@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#373](https://github.com/Accruent/robotframework-zoomba/pull/373) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. ❌ Closed PR [#94](https://github.com/Accruent/robotframework-applicationlibrary/pull/94) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-3. ❌ Closed PR [#92](https://github.com/Accruent/robotframework-applicationlibrary/pull/92) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-4. ❌ Closed PR [#93](https://github.com/Accruent/robotframework-applicationlibrary/pull/93) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
-5. ❌ Closed PR [#91](https://github.com/Accruent/robotframework-applicationlibrary/pull/91) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+1. 🎉 Merged PR [#373](https://github.com/Accruent/robotframework-zoomba/pull/373) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+2. 💪 Opened PR [#373](https://github.com/Accruent/robotframework-zoomba/pull/373) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. ❌ Closed PR [#94](https://github.com/Accruent/robotframework-applicationlibrary/pull/94) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+4. ❌ Closed PR [#92](https://github.com/Accruent/robotframework-applicationlibrary/pull/92) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
+5. ❌ Closed PR [#93](https://github.com/Accruent/robotframework-applicationlibrary/pull/93) in [Accruent/robotframework-applicationlibrary](https://github.com/Accruent/robotframework-applicationlibrary)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
