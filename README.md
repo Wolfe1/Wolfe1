@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#404](https://github.com/Accruent/robotframework-zoomba/pull/404) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-2. 💪 Opened PR [#402](https://github.com/Accruent/robotframework-zoomba/pull/402) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-3. 🎉 Merged PR [#399](https://github.com/Accruent/robotframework-zoomba/pull/399) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-4. 💪 Opened PR [#399](https://github.com/Accruent/robotframework-zoomba/pull/399) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
-5. 🗣 Commented on [#5023](https://github.com/robotframework/robotframework/issues/5023#issuecomment-2023161842) in [robotframework/robotframework](https://github.com/robotframework/robotframework)
+1. ❌ Closed PR [#401](https://github.com/Accruent/robotframework-zoomba/pull/401) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+2. ❌ Closed PR [#402](https://github.com/Accruent/robotframework-zoomba/pull/402) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+3. 💪 Opened PR [#404](https://github.com/Accruent/robotframework-zoomba/pull/404) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+4. 💪 Opened PR [#402](https://github.com/Accruent/robotframework-zoomba/pull/402) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
+5. 🎉 Merged PR [#399](https://github.com/Accruent/robotframework-zoomba/pull/399) in [Accruent/robotframework-zoomba](https://github.com/Accruent/robotframework-zoomba)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
