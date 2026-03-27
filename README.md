@@ -8,11 +8,11 @@ Tinkerer in Open Source Test Software
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#304984](https://github.com/microsoft/vscode/pull/304984) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#304984](https://github.com/microsoft/vscode/pull/304984) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#304859](https://github.com/microsoft/vscode/pull/304859#issuecomment-4130706717) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❌ Closed PR [#304859](https://github.com/microsoft/vscode/pull/304859) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#304857](https://github.com/microsoft/vscode/issues/304857#issuecomment-4130590176) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#304857](https://github.com/microsoft/vscode/issues/304857#issuecomment-4142629881) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❌ Closed PR [#304984](https://github.com/microsoft/vscode/pull/304984) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#304984](https://github.com/microsoft/vscode/pull/304984) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#304859](https://github.com/microsoft/vscode/pull/304859#issuecomment-4130706717) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❌ Closed PR [#304859](https://github.com/microsoft/vscode/pull/304859) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ### :newspaper: Articles
